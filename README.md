@@ -7,10 +7,16 @@ It wouldn't make sense to post every tool and language I've ever worked with, bu
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&color=informational&logo=express.js)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&color=informational&logo=react-native)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
 ![](https://img.shields.io/badge/Code-Tailwind_CSS-informational?style=flat&color=informationa&logo=tailwind-css)
 ![](https://img.shields.io/badge/Code-Material_UI-informational?style=flat&color=informational&logo=material-ui)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&color=informational&logo=redux)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&color=informational&logo=express.js)
+![](https://img.shields.io/badge/Code-Tailwind_CSS-informational?style=flat&color=informationa&logo=tailwind-css)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&color=informational&logo=mongodb)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&color=informational&logo=firebase)
+![](https://img.shields.io/badge/Tool-GCP-informational?style=flat&color=warning&logo=google-cloud)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
