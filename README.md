@@ -10,5 +10,7 @@ It wouldn't make sense to post every tool and language I've ever worked with, bu
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&color=informational&logo=express.js)
 ![](https://img.shields.io/badge/Code-Tailwind_CSS-informational?style=flat&color=informationa&logo=tailwind-css)
+![](https://img.shields.io/badge/Code-Material_UI-informational?style=flat&color=informational&logo=material-ui)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&color=informational&logo=redux)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
